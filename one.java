@@ -1,5 +1,3 @@
-package 实训七.第二题;
-
 public class one {
     public static void main(String[] args) {
 
